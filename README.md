@@ -17,8 +17,8 @@ exemplos.
 
 ##### EXAMPLE  #####
 
-Entre com os dados do aluguel
-Modelo do carro: Civic
+Entre com os dados do aluguel /n
+Modelo do carro: Civic /n
 Retirada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
 Retorno (dd/MM/yyyy hh:mm): 27/06/2018 11:40
 Entre com o preço por hora: 10.00
