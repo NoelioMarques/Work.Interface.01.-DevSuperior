@@ -18,12 +18,21 @@ exemplos.
 ##### EXAMPLE  #####
 
 Entre com os dados do aluguel /n
+
 Modelo do carro: Civic /n
+
 Retirada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
+
 Retorno (dd/MM/yyyy hh:mm): 27/06/2018 11:40
+
 Entre com o preço por hora: 10.00
+
 Entre com o preço por dia: 130.00
+
 FATURA:
+
 Pagamento basico: 390.00
+
 Imposto: 58.50
+
 Pagamento total: 448.50
